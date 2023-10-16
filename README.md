@@ -3,8 +3,8 @@ menghitung mahasiswa yang masuk dan keluar fakultas sains dan teknologi
 
 ## Files
 - `coco.txt`: Contains class names used for object detection.
-- `Masuk Fakultas Saintek-1.mp4`: Sample video file for people counting system.
-- `output.mp4` : "Video Results of People Counting System"
+- `Masuk Fakultas Saintek-1.mp4`: Sample video file for people counting system. ['Full Video'](https://youtu.be/4X9id0bNSmg)
+- `output.mp4` : "Video Results of People Counting System" ['Full video'](https://youtu.be/K141G3Bhd3U)
 - `main.py`: main.py or Python script for People Counting system using YOLO.
 - `README.md`: This file, providing information about the repository.
 - `tracker.py`: Python script containing the custom Tracker class for object tracking.
